@@ -1,0 +1,22 @@
+{
+  "name": "@birman/error-code-map",
+  "version": "1.2.0",
+  "description": "Error code map for birman.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/birmanjs/error-code-map"
+  },
+  "homepage": "http://github.com/birmanjs/error-code-map",
+  "bugs": "http://github.com/birmanjs/error-code-map/issues",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
